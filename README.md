@@ -1,13 +1,11 @@
-# OBSManual
-
-<h1>How to get the Live Stream running on Facebook</h1>
+# How to get the Live Stream running on Facebook through OBS Studio
 <h2>Step 1</h2>
-Open <b>OBS Studio
+Open <b>OBS Studio</b>
 
 <h2>Step 2</h2></b>
 <img src="https://github.com/skylon2k2/OBSManual/assets/90818966/0596d52b-4dc7-473f-adb8-d27d2406f054" alt="drawing" width="500"/>
 
-Click **Apply** pop-up named **Missing Files**.
+If there is a pop-up named **Missing Files**, click **Apply**.
 
 <h2>Step 3</h2>
 <img src="https://github.com/skylon2k2/OBSManual/assets/90818966/c35e6f78-aa83-4d46-bc20-0781c9404c4f" alt="drawing" width="500"/>
@@ -22,7 +20,7 @@ Click **Stream** in the menu on the left.
 <h2>Step 5</h2>
 <img src="https://github.com/skylon2k2/OBSManual/assets/90818966/b3967796-2b5e-4513-9cfc-a56f38b6f5bf" alt="drawing" width="500"/>
 
-Open the **Shareekatul Hussain Milton** facebook page on any browser and click **Live Video**.
+Open the facebook page on any browser and click **Live Video**.
 
 <h2>Step 6</h2>
 <img src="https://github.com/skylon2k2/OBSManual/assets/90818966/8ce1c1f1-8e4a-4c4d-b6c3-74a060fe34d1" alt="drawing" width="500"/>
