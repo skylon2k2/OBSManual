@@ -1,5 +1,4 @@
 # OBSManual
-For Shareekatul Hussain Milton Facebook Live
 
 <h1>How to get the Live Stream running on Facebook</h1>
 <h2>Step 1</h2>
